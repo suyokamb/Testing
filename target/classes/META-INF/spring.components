@@ -1,0 +1,2 @@
+capg.hellomaven.App=org.springframework.stereotype.Component
+capg.hellomaven.GreetingController=org.springframework.stereotype.Component
